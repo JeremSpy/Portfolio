@@ -1,0 +1,48 @@
+page-categories
+{
+	.card-background-page
+	{
+	   ion-card
+	   {
+    	   position: relative;
+    	   text-align: center;
+  	 }
+
+	   .card-title
+	   {
+    	   position: absolute;
+    	   top: 36%;
+    	   font-size: 2.0em;
+    	   width: 100%;
+    	   font-weight: bold;
+    	   color: #fff;
+  	     }
+
+    	.card-subtitle
+    	{
+    	   font-size: 1.0em;
+    	   position: absolute;
+    	   top: 52%;
+            width: 100%;
+    	   color: #e62117;
+  	     }
+    }
+    
+    .titre
+    {
+        font-family: Satisfy;
+        font-size: 27px;
+    }
+    .section
+    {
+        font-family: PoiretOne;
+        font-size: 27px;
+        text-align: center;
+    }
+    .synopsis
+    {
+        font-family: Caveat;
+        font-size: 20px;
+        text-align: justify;
+    }
+}
